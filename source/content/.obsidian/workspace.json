@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Focusing helps me process emotions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Focusing helps me process emotions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Focusing helps me process emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Focusing helps me process emotions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Focusing helps me process emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Focusing helps me process emotions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Focusing helps me process emotions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Focusing helps me process emotions"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Focus on what you want to see more of.md",
+    "Design your environment as scaffolding towards creating the world you want to see.md",
+    "Celebrate being bad at things and ask dumb questions.md",
+    "What does a world I want to live in actually look like?.md",
+    "Mixed-age groups have hugely positive effects for children and adults.md",
+    "Planning is priceless, plans are worthless.md",
     "Focusing helps me process emotions.md",
     "index.md",
     "category-folder/Some note.md",
