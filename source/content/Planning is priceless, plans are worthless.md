@@ -4,4 +4,4 @@ https://x.com/visakanv/status/1333535532882685953
 
 In some ways this is [[Design your environment as scaffolding towards creating the world you want to see]], except for your subconscious
 
-Ask yourself concretely [[What does a world I want to live in actually look like?]]
+Ask yourself concretely [[What does a world I want to live in look like?]]

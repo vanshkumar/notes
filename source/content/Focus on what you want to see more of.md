@@ -2,7 +2,7 @@
 
 Nietzsche
 
-Ask yourself concretely [[What does a world I want to live in actually look like?]]
+Ask yourself concretely [[What does a world I want to live in look like?]]
 
 Descriptive pessimism + prescriptive optimism:
 - 
