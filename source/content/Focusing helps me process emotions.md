@@ -1,3 +1,6 @@
+---
+modified: 2025-04-02T14:50:12-07:00
+---
 Evidence:
 - Did it multiple times to process the news that we were having a kid at the same time that I left Alphabet, which moved forward our plans to move back to LA as well
 	- Articulated fear of lack of identity, of not doing something worthwhile, of wasted potential
