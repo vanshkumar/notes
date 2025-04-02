@@ -1,4 +1,4 @@
 ---
-modified: 2025-03-30
+modified: 2025-04-02T14:56:42-07:00
 ---
 In the case of kids this is especially pertinent. Where is it OK to curate a kid's environment to restrict XYZ things from them (screens, violent video games, whatever) vs coercing them to do XYZ. If they don't know X thing even exists then it's not technically coercion to withhold it from them, only if they have knowledge of it existing does it become coercion. That seems morally wrong. But also if you exposed a child to all of the many many options in the world. Like hard drugs or something. That would be obviously wrong and a form of 'coercion' / environment design that is *not* considered coercive, at least societally. As usual it's a cultural choice where this line gets drawn huh.
