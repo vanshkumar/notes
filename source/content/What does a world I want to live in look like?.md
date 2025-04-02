@@ -1,6 +1,10 @@
-|               ![[Pasted image 20250402104054.png]]               |
-| :--------------------------------------------------------------: |
-|  [Source](https://substack.com/@henrikkarlsson/note/c-105353126) |
+---
+modified: 2025-04-02T14:31:02-07:00
+---
+
+|              ![[Pasted image 20250402104054.png]]               |
+| :-------------------------------------------------------------: |
+| [Source](https://substack.com/@henrikkarlsson/note/c-105353126) |
 
 In other words, [[Focus on what you want to see more of]] and describe it in detail a la [[Planning is priceless, plans are worthless]].
 
