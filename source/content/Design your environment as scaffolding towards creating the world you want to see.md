@@ -1,3 +1,6 @@
+---
+modified: 2025-04-02T14:54:41-07:00
+---
 - Montessori-style scaffolding is applicable EVERYWHERE in life where you're trying to get into a flow state / achieve mastery. Repeated challenges just beyond your reach are the most motivating as they result in continual momentum of success/progress
 	- https://x.com/Conaw/status/1718549803498684640
 	- This plays into the idea of coercion vs non-coercion as well. Coercion isn’t as useful of a frame given how important the environment is to what you choose to do, the affordances it has etc.

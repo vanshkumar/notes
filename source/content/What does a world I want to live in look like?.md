@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-02T14:31:02-07:00
+modified: 2025-04-02T14:56:17-07:00
 ---
 
 |              ![[Pasted image 20250402104054.png]]               |
@@ -7,7 +7,7 @@ modified: 2025-04-02T14:31:02-07:00
 | [Source](https://substack.com/@henrikkarlsson/note/c-105353126) |
 
 In other words, [[Focus on what you want to see more of]] and describe it in detail a la [[Planning is priceless, plans are worthless]].
-
+ 
 What do I want to see more of?
 - Having more regular community; friends to lean on and drink coffee with and have fun with and build cool things with and go on long walks with and [[Celebrate being bad at things and ask dumb questions]] and to play with each other's kids
 - Knowing and being friends with neighbors
