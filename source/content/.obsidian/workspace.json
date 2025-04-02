@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/New note.md",
+                "file": "What do I not want my life to look like, and why?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New note"
+              "title": "What do I not want my life to look like, and why?"
             }
           }
         ]
@@ -170,14 +170,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Celebrate being bad at things and ask dumb questions.md",
-    "_templates/New note.md",
     "What do I not want my life to look like, and why?.md",
+    "Untitled.md",
+    "_templates/New note.md",
+    "Celebrate being bad at things and ask dumb questions.md",
     "Planning is priceless, plans are worthless.md",
     "What does a world I want to live in look like?.md",
-    "Untitled.md",
     "index.md",
     "Where is the line between coercion and environment design?.md",
     "Focusing helps me process emotions.md",
