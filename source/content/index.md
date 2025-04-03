@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Vansh Kumar's Notebook
 lastmod: 2025-04-03
 ---
 Looks like you’ve stumbled onto my notebook. Come on in, the water’s wet.
