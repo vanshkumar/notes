@@ -21,9 +21,10 @@ function coerceDate(fp: string, d: any): Date {
         `\nWarning: found invalid date "${d}" in \`${fp}\`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format`,
       ),
     )
+    return null
   }
 
-  return invalidDate ? new Date() : dt
+  return dt
 }
 
 type MaybeDate = undefined | string | number
