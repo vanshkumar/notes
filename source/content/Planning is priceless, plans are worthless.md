@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-02T14:54:55-07:00
+lastmod: 2025-04-03
 ---
 Spend a day making elaborate plans and then disregard them completely to make whatever you think is most compelling. Repeat monthly or quarterly.
 

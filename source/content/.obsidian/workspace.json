@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "75e3e9aba11a9c08",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_templates/New note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New note"
             }
           }
         ]
@@ -172,18 +172,18 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "What do I not want my life to look like, and why?.md",
-    "Untitled.md",
-    "_templates/New note.md",
     "Celebrate being bad at things and ask dumb questions.md",
-    "Planning is priceless, plans are worthless.md",
-    "What does a world I want to live in look like?.md",
-    "index.md",
-    "Where is the line between coercion and environment design?.md",
-    "Focusing helps me process emotions.md",
     "Design your environment as scaffolding towards creating the world you want to see.md",
-    "_templates",
     "Focus on what you want to see more of.md",
+    "Focusing helps me process emotions.md",
+    "index.md",
+    "Planning is priceless, plans are worthless.md",
+    "What do I not want my life to look like, and why?.md",
+    "What does a world I want to live in look like?.md",
+    "Where is the line between coercion and environment design?.md",
+    "_templates/New note.md",
+    "Untitled.md",
+    "_templates",
     "2025-03-30.md",
     "Parenting is always and everywhere a cultural phenomenon.md",
     "_attachments/Pasted image 20250402104054.png",
