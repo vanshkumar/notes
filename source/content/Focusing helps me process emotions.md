@@ -2,7 +2,7 @@
 lastmod: 2025-04-03
 ---
 Evidence:
-- Did it multiple times to process the news that we were having a kid at the same time that I left Alphabet, which moved forward our plans to move back to LA as well
+- Did it multiple times to process the news that we were having a kid at the same time that I left Alphabet, which moved forward our plans to move back to LA as well (see [10.1.2024](https://vanshkumar.substack.com/p/1012024) for narrative of this)
 	- Articulated fear of lack of identity, of not doing something worthwhile, of wasted potential
 	- Articulated fear of stagnation, issues with weed in LA
 	- Articulated social isolation, and building community in Pasadena to make it feel better
