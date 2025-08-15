@@ -1,0 +1,1 @@
+Passion refers to how aggressively you care about whatever it is you are doing. It can be applied to _any_ task.

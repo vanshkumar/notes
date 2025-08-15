@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd39f62b868f7d2",
+        "id": "655c9615d3c29289",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d72b08a8c239bd",
+            "id": "b22c018889479da1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,6 +161,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f26d518716185288",
-  "lastOpenFiles": []
+  "active": "b22c018889479da1",
+  "lastOpenFiles": [
+    "README.md",
+    "source/writing_inbox/Concretely describe your utopia.md",
+    "source/writing_inbox/Design your environment as scaffolding towards creating the world you want to see.md",
+    "source/writing_inbox/Celebrate being bad at things and ask dumb questions.md",
+    "source/writing_inbox/Write your obituary.md",
+    "source/writing_inbox/What would modern education built from first principles look like?.md",
+    "source/writing_inbox/Where is the line between coercion and environment design?.md",
+    "source/writing_inbox/Untitled 1.md",
+    "source/writing_inbox/Untitled 2.md",
+    "source/writing_inbox/Untitled.md",
+    "source/writing_inbox/Planning is priceless, plans are worthless.md",
+    "source/writing_inbox/Passion is a learnable skill.md",
+    "source/writing_inbox/Focusing helps me process emotions.md",
+    "source/writing_inbox/Metacognition is the most important skill.md",
+    "source/writing_inbox/Doing excellent work takes time.md",
+    "Passion is a learnable skill.md",
+    "source/writing_inbox/Focus on what you want to see more of.md",
+    "source/content/index.md",
+    "source/writing_inbox/Being one hundred percent transparent is underrated.md",
+    "source/content/_templates/New note.md",
+    "source/content/_attachments/Pasted image 20250402104054.png",
+    "source/writing_inbox/Develop short feedback loops with reality.md",
+    "source/writing_inbox",
+    "source/content/Write about what you read to understand and internalize it.md",
+    "source/content/What do I not want my life to look like, and why?.md"
+  ]
 }
